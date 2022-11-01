@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(243, 104, 104);
+}
+
+.title {
+  text-align: center;
+  font-size: 40px;
+}
+
+.contact_title {
+  text-align: center;
+  font-size: 30px;
+}
