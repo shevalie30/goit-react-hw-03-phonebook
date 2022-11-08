@@ -1,0 +1,25 @@
+.notifi_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 18px;
+  color: rgb(1, 1, 1);
+}
+
+.notifi_item {
+  list-style: none;
+  background-color: #3a9dee;
+  border-radius: 4px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 18px;
+  width: 400px;
+}
+
+.notifi_text {
+  color: #fff;
+}

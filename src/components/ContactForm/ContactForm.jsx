@@ -1,9 +1,7 @@
 import { Component } from 'react';
 import css from './ContactForm.module.css';
-// import { ContactList } from 'components/ContactList/ContactList';
 class ContactForm extends Component {
     state = {
-        // contacts: [],
         name: '',
         number: ''
     };
